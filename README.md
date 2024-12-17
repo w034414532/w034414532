@@ -11,7 +11,7 @@
 <br><br>
 
 <h4>LeetCode</h4>
-[![LeetCode Stats](https://leetcard.jacoblin.cool/w034414532?theme=nord&font=Kaisei%20Opti&v=1)](https://leetcode.com/w034414532/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/w034414532?theme=nord&font=Kaisei%20Opti&v=1)]
 <!---[![LeetCode Stats](https://leetcard.jacoblin.cool/w034414532)](https://leetcode.com/w034414532/)--->
 <br><br>
 <br><br>
