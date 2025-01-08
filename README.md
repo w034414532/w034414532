@@ -11,7 +11,8 @@
 <br><br>
 
 <h4>LeetCode</h4>
-![LeetCode Stats](https://leetcard.jacoblin.cool/w034414532?theme=light&font=Shippori%20Mincho%20B1)
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/w034414532?theme=light)
 
 <!---
 ![LeetCode Stats](https://leetcard.jacoblin.cool/w034414532?theme=nord&font=Kaisei%20Opti)
@@ -24,9 +25,9 @@
 <br><br>
 <br><br>
 
-<!---
+
 [![GitHub Streak](https://github-readme-streak-stats-delta-lyart.vercel.app?user=w034414532&theme=transparent&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) 
---->
+
 <!---
 w034414532/w034414532 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
