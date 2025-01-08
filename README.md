@@ -11,7 +11,7 @@
 <br><br>
 
 <h4>LeetCode</h4>
-![LeetCode Stats](https://leetcard.jacoblin.cool/w034414532)
+![LeetCode Stats](https://leetcard.jacoblin.cool/w034414532?theme=light&font=Shippori%20Mincho%20B1)
 <!---![LeetCode Stats](https://leetcard.jacoblin.cool/w034414532?theme=nord&font=Kaisei%20Opti)--->
 <!---[![LeetCode Stats](https://leetcard.jacoblin.cool/w034414532)](https://leetcode.com/w034414532/)--->
 <br><br>
